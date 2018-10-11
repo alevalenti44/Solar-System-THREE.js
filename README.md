@@ -1,6 +1,8 @@
 # Solar System THREE.js
 
 ![alt text](https://github.com/alevalenti44/Solar-System-THREE.js/blob/master/planets.gif)
+![alt text](https://github.com/alevalenti44/Solar-System-THREE.js/blob/master/solarsystemimg.png)
+
 
 Using THREE.js's raycasting I was able to get the name of the name of the object where the user clicks (the object name in this case being the planet's name), and create a URL to open a wikipedia page of the planet that has been clicked on.
 
